@@ -1,2 +1,6 @@
 # hello-world
 no more description
+
+so...
+I come from China and...
+It's not easy foe me to do those codes on github cause my english is not so fluent
